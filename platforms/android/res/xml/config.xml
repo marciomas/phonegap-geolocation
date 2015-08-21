@@ -6,12 +6,12 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
-    <name>HelloCordova</name>
+    <name>Phonegap - Geolocation</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Mostra um exemplo do geolocation.
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+        Masmidia
     </author>
     <content src="index.html" />
     <access origin="*" />
